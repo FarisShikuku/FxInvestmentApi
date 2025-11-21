@@ -1,0 +1,6 @@
+@FxInvestmentApi_HostAddress = http://localhost:5064
+
+GET {{FxInvestmentApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
