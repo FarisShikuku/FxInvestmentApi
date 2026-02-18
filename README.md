@@ -155,7 +155,7 @@ dotnet ef database update
 
 1️⃣ Clone repository
 
-git clone https://github.com/yourusername/InvestmentPortfoliosAPI.git
+git clone https://github.com/FarisShikuku/InvestmentPortfoliosAPI.git
 
 2️⃣ Navigate to project
 
